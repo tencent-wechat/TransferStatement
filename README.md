@@ -1,5 +1,5 @@
 # TransferStatement
-phxpaxos/phxrpc/phxsql had been transfered to Tencent
+phxpaxos/phxrpc/phxsql had been transferred to Tencent
 
 * phxpaxos https://github.com/tencent/phxpaxos
 * phxrpc https://github.com/tencent/phxrpc
